@@ -1,0 +1,18 @@
+https://github.com/pankaj-14/git-demo-xavient.git
+
+…or create a new repository on the command line
+
+
+echo # git-demo-xavient >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/pankaj-14/git-demo-xavient.git
+git push -u origin master
+…or push an existing repository from the command line
+
+
+git remote add origin https://github.com/pankaj-14/git-demo-xavient.git
+git push -u origin master
+
+Added By saurabh
